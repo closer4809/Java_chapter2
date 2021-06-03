@@ -1,4 +1,4 @@
-package com.javaex.Ex02;
+package com.javaex.ex02;
 
 public class Goods {
 	
@@ -7,10 +7,14 @@ public class Goods {
 	private int price;
 
 	//积己磊
+	public Goods() {
+		
+	}
+	
+	
+	
 	
 	//皋家靛-百磐技磐
-	
-	
 	public void setName(String name){
 		
 		this.name = name;

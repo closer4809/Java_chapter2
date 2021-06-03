@@ -1,4 +1,4 @@
-package com.javaex.Ex02;
+package com.javaex.ex02;
 
 public class GoodsApp {
 

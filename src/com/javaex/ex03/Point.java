@@ -1,4 +1,4 @@
-package com.javaex.Ex03;
+package com.javaex.ex03;
 
 public class Point {
 	int pointx;
