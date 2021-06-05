@@ -93,8 +93,5 @@ public class Tv {
 			System.out.println("전원이 꺼졌습니다.");
 		}
 	}
-		
-		
-	
-	
+				
 }
